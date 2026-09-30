@@ -1,0 +1,1 @@
+Strong bullets communicate an action, work performed, and an outcome when supported. Use concrete technologies and accurate verbs. Do not add unsupported quantitative claims.

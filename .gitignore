@@ -1,0 +1,38 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Chroma / vector stores
+chroma_db/
+chroma/
+data/chroma/
+data/vectorstore/
+
+# Local datasets
+data/raw/
+data/kaggle/
+*.csv
+*.parquet
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

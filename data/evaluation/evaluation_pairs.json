@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Git, REST APIs, Docker, Redis, Kubernetes. Built python solutions for internal projects; Improved sql solutions for internal projects; Implemented git solutions for internal projects; Developed rest apis solutions for internal projects; Developed docker solutions for internal projects; Developed redis solutions for internal projects; Improved kubernetes solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Git|REST APIs|Docker|Redis|Kubernetes"
+  },
+  {
+    "id": 2,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Python, SQL, Excel, Tableau. Improved python solutions for internal projects; Improved sql solutions for internal projects; Automated excel solutions for internal projects; Built tableau solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Python|SQL|Excel|Tableau"
+  },
+  {
+    "id": 3,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Communication. Automated python solutions for internal projects; Designed machine learning solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Communication"
+  },
+  {
+    "id": 4,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Excel, Communication, Git. Built excel solutions for internal projects; Built communication solutions for internal projects; Developed git solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 5,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, HTML, CSS, Git, TypeScript, Jest. Automated javascript solutions for internal projects; Developed react solutions for internal projects; Improved html solutions for internal projects; Improved css solutions for internal projects; Improved git solutions for internal projects; Automated typescript solutions for internal projects; Designed jest solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|HTML|CSS|Git|TypeScript|Jest"
+  },
+  {
+    "id": 6,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Linux, Docker, Git, Kubernetes. Designed linux solutions for internal projects; Automated docker solutions for internal projects; Implemented git solutions for internal projects; Built kubernetes solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Linux|Docker|Git|Kubernetes"
+  },
+  {
+    "id": 7,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Communication. Developed aws solutions for internal projects; Improved linux solutions for internal projects; Designed communication solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Communication"
+  },
+  {
+    "id": 8,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in Excel, Communication, Git. Implemented excel solutions for internal projects; Implemented communication solutions for internal projects; Developed git solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 9,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Requirements Gathering, Data Analysis, Communication, Power BI, Jira. Built sql solutions for internal projects; Built excel solutions for internal projects; Designed requirements gathering solutions for internal projects; Built data analysis solutions for internal projects; Implemented communication solutions for internal projects; Implemented power bi solutions for internal projects; Automated jira solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication|Power BI|Jira"
+  },
+  {
+    "id": 10,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Python, LLM, Prompt Engineering, Vector Databases. Built python solutions for internal projects; Improved llm solutions for internal projects; Designed prompt engineering solutions for internal projects; Automated vector databases solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Python|LLM|Prompt Engineering|Vector Databases"
+  },
+  {
+    "id": 11,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Communication. Built python solutions for internal projects; Designed sql solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Communication"
+  },
+  {
+    "id": 12,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Excel, Communication, Git. Automated excel solutions for internal projects; Implemented communication solutions for internal projects; Improved git solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 13,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Pandas, NumPy, Scikit-learn, MLflow, Docker. Automated python solutions for internal projects; Developed machine learning solutions for internal projects; Improved pandas solutions for internal projects; Built numpy solutions for internal projects; Built scikit-learn solutions for internal projects; Improved mlflow solutions for internal projects; Developed docker solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn|MLflow|Docker"
+  },
+  {
+    "id": 14,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Python, FastAPI, REST APIs, Redis. Built python solutions for internal projects; Developed fastapi solutions for internal projects; Built rest apis solutions for internal projects; Designed redis solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Python|FastAPI|REST APIs|Redis"
+  },
+  {
+    "id": 15,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, Communication. Implemented javascript solutions for internal projects; Designed react solutions for internal projects; Improved communication solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|Communication"
+  },
+  {
+    "id": 16,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Excel, Communication, Git. Implemented excel solutions for internal projects; Developed communication solutions for internal projects; Implemented git solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 17,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Docker, Networking, Python, Kubernetes, Terraform. Improved aws solutions for internal projects; Implemented linux solutions for internal projects; Improved docker solutions for internal projects; Improved networking solutions for internal projects; Improved python solutions for internal projects; Built kubernetes solutions for internal projects; Automated terraform solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Docker|Networking|Python|Kubernetes|Terraform"
+  },
+  {
+    "id": 18,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in SQL, Excel, Analytics, Product Metrics. Developed sql solutions for internal projects; Automated excel solutions for internal projects; Improved analytics solutions for internal projects; Developed product metrics solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "SQL|Excel|Analytics|Product Metrics"
+  },
+  {
+    "id": 19,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Communication. Developed sql solutions for internal projects; Designed excel solutions for internal projects; Designed communication solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Communication"
+  },
+  {
+    "id": 20,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Excel, Communication, Git. Implemented excel solutions for internal projects; Improved communication solutions for internal projects; Improved git solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 21,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Git, REST APIs, Docker, Redis, Kubernetes. Improved python solutions for internal projects; Implemented sql solutions for internal projects; Built git solutions for internal projects; Developed rest apis solutions for internal projects; Built docker solutions for internal projects; Implemented redis solutions for internal projects; Designed kubernetes solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Git|REST APIs|Docker|Redis|Kubernetes"
+  },
+  {
+    "id": 22,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Python, SQL, Excel, A/B Testing. Built python solutions for internal projects; Developed sql solutions for internal projects; Automated excel solutions for internal projects; Improved a/b testing solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Python|SQL|Excel|A/B Testing"
+  },
+  {
+    "id": 23,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Communication. Implemented python solutions for internal projects; Developed machine learning solutions for internal projects; Improved communication solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Communication"
+  },
+  {
+    "id": 24,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Excel, Communication, Git. Designed excel solutions for internal projects; Designed communication solutions for internal projects; Improved git solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 25,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, HTML, CSS, Git, Next.js, TypeScript. Implemented javascript solutions for internal projects; Developed react solutions for internal projects; Developed html solutions for internal projects; Improved css solutions for internal projects; Automated git solutions for internal projects; Automated next.js solutions for internal projects; Implemented typescript solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|HTML|CSS|Git|Next.js|TypeScript"
+  },
+  {
+    "id": 26,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Linux, Docker, Git, Prometheus. Automated linux solutions for internal projects; Designed docker solutions for internal projects; Automated git solutions for internal projects; Designed prometheus solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Linux|Docker|Git|Prometheus"
+  },
+  {
+    "id": 27,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Communication. Implemented aws solutions for internal projects; Developed linux solutions for internal projects; Developed communication solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Communication"
+  },
+  {
+    "id": 28,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in Excel, Communication, Git. Automated excel solutions for internal projects; Designed communication solutions for internal projects; Built git solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 29,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Requirements Gathering, Data Analysis, Communication, Power BI, UML. Developed sql solutions for internal projects; Improved excel solutions for internal projects; Developed requirements gathering solutions for internal projects; Improved data analysis solutions for internal projects; Designed communication solutions for internal projects; Automated power bi solutions for internal projects; Built uml solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication|Power BI|UML"
+  },
+  {
+    "id": 30,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Python, LLM, Prompt Engineering, Vector Databases. Designed python solutions for internal projects; Automated llm solutions for internal projects; Designed prompt engineering solutions for internal projects; Automated vector databases solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Python|LLM|Prompt Engineering|Vector Databases"
+  },
+  {
+    "id": 31,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Communication. Implemented python solutions for internal projects; Automated sql solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Communication"
+  },
+  {
+    "id": 32,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Excel, Communication, Git. Improved excel solutions for internal projects; Improved communication solutions for internal projects; Built git solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 33,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Pandas, NumPy, Scikit-learn, MLflow, Docker. Improved python solutions for internal projects; Implemented machine learning solutions for internal projects; Built pandas solutions for internal projects; Implemented numpy solutions for internal projects; Designed scikit-learn solutions for internal projects; Developed mlflow solutions for internal projects; Designed docker solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn|MLflow|Docker"
+  },
+  {
+    "id": 34,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Python, FastAPI, REST APIs, Docker. Improved python solutions for internal projects; Improved fastapi solutions for internal projects; Implemented rest apis solutions for internal projects; Automated docker solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Python|FastAPI|REST APIs|Docker"
+  },
+  {
+    "id": 35,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, Communication. Developed javascript solutions for internal projects; Automated react solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|Communication"
+  },
+  {
+    "id": 36,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Excel, Communication, Git. Improved excel solutions for internal projects; Implemented communication solutions for internal projects; Improved git solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 37,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Docker, Networking, Python, Azure, Terraform. Developed aws solutions for internal projects; Implemented linux solutions for internal projects; Developed docker solutions for internal projects; Automated networking solutions for internal projects; Automated python solutions for internal projects; Built azure solutions for internal projects; Automated terraform solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Docker|Networking|Python|Azure|Terraform"
+  },
+  {
+    "id": 38,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in SQL, Excel, Analytics, Tableau. Designed sql solutions for internal projects; Built excel solutions for internal projects; Built analytics solutions for internal projects; Implemented tableau solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "SQL|Excel|Analytics|Tableau"
+  },
+  {
+    "id": 39,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Communication. Implemented sql solutions for internal projects; Developed excel solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Communication"
+  },
+  {
+    "id": 40,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Excel, Communication, Git. Developed excel solutions for internal projects; Automated communication solutions for internal projects; Built git solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 41,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Git, REST APIs, Docker, Kubernetes, AWS. Built python solutions for internal projects; Automated sql solutions for internal projects; Developed git solutions for internal projects; Developed rest apis solutions for internal projects; Improved docker solutions for internal projects; Designed kubernetes solutions for internal projects; Automated aws solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Git|REST APIs|Docker|Kubernetes|AWS"
+  },
+  {
+    "id": 42,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Python, SQL, Excel, Tableau. Implemented python solutions for internal projects; Automated sql solutions for internal projects; Automated excel solutions for internal projects; Designed tableau solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Python|SQL|Excel|Tableau"
+  },
+  {
+    "id": 43,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Communication. Developed python solutions for internal projects; Automated machine learning solutions for internal projects; Improved communication solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Communication"
+  },
+  {
+    "id": 44,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Excel, Communication, Git. Improved excel solutions for internal projects; Developed communication solutions for internal projects; Improved git solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 45,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, HTML, CSS, Git, Next.js, Jest. Improved javascript solutions for internal projects; Improved react solutions for internal projects; Implemented html solutions for internal projects; Designed css solutions for internal projects; Automated git solutions for internal projects; Designed next.js solutions for internal projects; Built jest solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|HTML|CSS|Git|Next.js|Jest"
+  },
+  {
+    "id": 46,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Linux, Docker, Git, Kubernetes. Developed linux solutions for internal projects; Built docker solutions for internal projects; Implemented git solutions for internal projects; Built kubernetes solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Linux|Docker|Git|Kubernetes"
+  },
+  {
+    "id": 47,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Communication. Automated aws solutions for internal projects; Automated linux solutions for internal projects; Developed communication solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Communication"
+  },
+  {
+    "id": 48,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in Excel, Communication, Git. Automated excel solutions for internal projects; Developed communication solutions for internal projects; Built git solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 49,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Requirements Gathering, Data Analysis, Communication, Power BI, UML. Developed sql solutions for internal projects; Built excel solutions for internal projects; Built requirements gathering solutions for internal projects; Implemented data analysis solutions for internal projects; Built communication solutions for internal projects; Automated power bi solutions for internal projects; Developed uml solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication|Power BI|UML"
+  },
+  {
+    "id": 50,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Python, LLM, Prompt Engineering, Vector Databases. Improved python solutions for internal projects; Designed llm solutions for internal projects; Developed prompt engineering solutions for internal projects; Automated vector databases solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Python|LLM|Prompt Engineering|Vector Databases"
+  },
+  {
+    "id": 51,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Communication. Developed python solutions for internal projects; Improved sql solutions for internal projects; Automated communication solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Communication"
+  },
+  {
+    "id": 52,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Excel, Communication, Git. Automated excel solutions for internal projects; Designed communication solutions for internal projects; Developed git solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 53,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Pandas, NumPy, Scikit-learn, Docker, MLflow. Developed python solutions for internal projects; Built machine learning solutions for internal projects; Built pandas solutions for internal projects; Improved numpy solutions for internal projects; Designed scikit-learn solutions for internal projects; Implemented docker solutions for internal projects; Designed mlflow solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn|Docker|MLflow"
+  },
+  {
+    "id": 54,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Python, FastAPI, REST APIs, Redis. Designed python solutions for internal projects; Improved fastapi solutions for internal projects; Built rest apis solutions for internal projects; Improved redis solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Python|FastAPI|REST APIs|Redis"
+  },
+  {
+    "id": 55,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, Communication. Improved javascript solutions for internal projects; Improved react solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|Communication"
+  },
+  {
+    "id": 56,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Excel, Communication, Git. Built excel solutions for internal projects; Designed communication solutions for internal projects; Improved git solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 57,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Docker, Networking, Python, Kubernetes, Terraform. Developed aws solutions for internal projects; Developed linux solutions for internal projects; Developed docker solutions for internal projects; Automated networking solutions for internal projects; Designed python solutions for internal projects; Developed kubernetes solutions for internal projects; Designed terraform solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Docker|Networking|Python|Kubernetes|Terraform"
+  },
+  {
+    "id": 58,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in SQL, Excel, Analytics, Python. Implemented sql solutions for internal projects; Designed excel solutions for internal projects; Developed analytics solutions for internal projects; Built python solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "SQL|Excel|Analytics|Python"
+  },
+  {
+    "id": 59,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Communication. Designed sql solutions for internal projects; Automated excel solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Communication"
+  },
+  {
+    "id": 60,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Excel, Communication, Git. Built excel solutions for internal projects; Improved communication solutions for internal projects; Automated git solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 61,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Git, REST APIs, Docker, Kubernetes, Redis. Developed python solutions for internal projects; Developed sql solutions for internal projects; Designed git solutions for internal projects; Designed rest apis solutions for internal projects; Designed docker solutions for internal projects; Developed kubernetes solutions for internal projects; Designed redis solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Git|REST APIs|Docker|Kubernetes|Redis"
+  },
+  {
+    "id": 62,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Python, SQL, Excel, Tableau. Developed python solutions for internal projects; Designed sql solutions for internal projects; Built excel solutions for internal projects; Designed tableau solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Python|SQL|Excel|Tableau"
+  },
+  {
+    "id": 63,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Communication. Implemented python solutions for internal projects; Designed machine learning solutions for internal projects; Implemented communication solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Communication"
+  },
+  {
+    "id": 64,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Excel, Communication, Git. Designed excel solutions for internal projects; Improved communication solutions for internal projects; Improved git solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 65,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, HTML, CSS, Git, Jest, Next.js. Developed javascript solutions for internal projects; Developed react solutions for internal projects; Implemented html solutions for internal projects; Developed css solutions for internal projects; Built git solutions for internal projects; Automated jest solutions for internal projects; Improved next.js solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|HTML|CSS|Git|Jest|Next.js"
+  },
+  {
+    "id": 66,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Linux, Docker, Git, Prometheus. Built linux solutions for internal projects; Improved docker solutions for internal projects; Implemented git solutions for internal projects; Built prometheus solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Linux|Docker|Git|Prometheus"
+  },
+  {
+    "id": 67,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Communication. Built aws solutions for internal projects; Automated linux solutions for internal projects; Designed communication solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Communication"
+  },
+  {
+    "id": 68,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in Excel, Communication, Git. Automated excel solutions for internal projects; Automated communication solutions for internal projects; Developed git solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 69,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Requirements Gathering, Data Analysis, Communication, Power BI, UML. Developed sql solutions for internal projects; Built excel solutions for internal projects; Automated requirements gathering solutions for internal projects; Built data analysis solutions for internal projects; Improved communication solutions for internal projects; Developed power bi solutions for internal projects; Designed uml solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication|Power BI|UML"
+  },
+  {
+    "id": 70,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Python, LLM, Prompt Engineering, RAG. Automated python solutions for internal projects; Developed llm solutions for internal projects; Automated prompt engineering solutions for internal projects; Automated rag solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Python|LLM|Prompt Engineering|RAG"
+  },
+  {
+    "id": 71,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Communication. Built python solutions for internal projects; Automated sql solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Communication"
+  },
+  {
+    "id": 72,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Excel, Communication, Git. Designed excel solutions for internal projects; Improved communication solutions for internal projects; Automated git solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 73,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Pandas, NumPy, Scikit-learn, MLflow, Docker. Implemented python solutions for internal projects; Developed machine learning solutions for internal projects; Improved pandas solutions for internal projects; Improved numpy solutions for internal projects; Implemented scikit-learn solutions for internal projects; Developed mlflow solutions for internal projects; Implemented docker solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn|MLflow|Docker"
+  },
+  {
+    "id": 74,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Python, FastAPI, REST APIs, Redis. Developed python solutions for internal projects; Improved fastapi solutions for internal projects; Improved rest apis solutions for internal projects; Implemented redis solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Python|FastAPI|REST APIs|Redis"
+  },
+  {
+    "id": 75,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, Communication. Designed javascript solutions for internal projects; Implemented react solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|Communication"
+  },
+  {
+    "id": 76,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Excel, Communication, Git. Built excel solutions for internal projects; Designed communication solutions for internal projects; Automated git solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 77,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Docker, Networking, Python, Azure, Terraform. Built aws solutions for internal projects; Automated linux solutions for internal projects; Developed docker solutions for internal projects; Automated networking solutions for internal projects; Implemented python solutions for internal projects; Developed azure solutions for internal projects; Implemented terraform solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Docker|Networking|Python|Azure|Terraform"
+  },
+  {
+    "id": 78,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in SQL, Excel, Analytics, Python. Developed sql solutions for internal projects; Implemented excel solutions for internal projects; Implemented analytics solutions for internal projects; Developed python solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "SQL|Excel|Analytics|Python"
+  },
+  {
+    "id": 79,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Communication. Designed sql solutions for internal projects; Automated excel solutions for internal projects; Improved communication solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Communication"
+  },
+  {
+    "id": 80,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Excel, Communication, Git. Implemented excel solutions for internal projects; Automated communication solutions for internal projects; Improved git solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 81,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Git, REST APIs, Docker, Redis, Kubernetes. Improved python solutions for internal projects; Automated sql solutions for internal projects; Implemented git solutions for internal projects; Improved rest apis solutions for internal projects; Built docker solutions for internal projects; Developed redis solutions for internal projects; Implemented kubernetes solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Git|REST APIs|Docker|Redis|Kubernetes"
+  },
+  {
+    "id": 82,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Python, SQL, Excel, Tableau. Built python solutions for internal projects; Improved sql solutions for internal projects; Automated excel solutions for internal projects; Developed tableau solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Python|SQL|Excel|Tableau"
+  },
+  {
+    "id": 83,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Communication. Implemented python solutions for internal projects; Implemented machine learning solutions for internal projects; Automated communication solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Communication"
+  },
+  {
+    "id": 84,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Excel, Communication, Git. Developed excel solutions for internal projects; Improved communication solutions for internal projects; Implemented git solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 85,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, HTML, CSS, Git, TypeScript, Next.js. Automated javascript solutions for internal projects; Designed react solutions for internal projects; Implemented html solutions for internal projects; Built css solutions for internal projects; Built git solutions for internal projects; Improved typescript solutions for internal projects; Designed next.js solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|HTML|CSS|Git|TypeScript|Next.js"
+  },
+  {
+    "id": 86,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Linux, Docker, Git, Terraform. Built linux solutions for internal projects; Built docker solutions for internal projects; Implemented git solutions for internal projects; Developed terraform solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Linux|Docker|Git|Terraform"
+  },
+  {
+    "id": 87,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Communication. Improved aws solutions for internal projects; Implemented linux solutions for internal projects; Developed communication solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Communication"
+  },
+  {
+    "id": 88,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in Excel, Communication, Git. Improved excel solutions for internal projects; Designed communication solutions for internal projects; Automated git solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 89,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Requirements Gathering, Data Analysis, Communication, UML, Jira. Automated sql solutions for internal projects; Built excel solutions for internal projects; Built requirements gathering solutions for internal projects; Built data analysis solutions for internal projects; Improved communication solutions for internal projects; Developed uml solutions for internal projects; Automated jira solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication|UML|Jira"
+  },
+  {
+    "id": 90,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Python, LLM, Prompt Engineering, RAG. Implemented python solutions for internal projects; Automated llm solutions for internal projects; Automated prompt engineering solutions for internal projects; Developed rag solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Python|LLM|Prompt Engineering|RAG"
+  },
+  {
+    "id": 91,
+    "role": "Software Engineer",
+    "resume_text": "Software Engineer candidate with experience in Python, SQL, Communication. Designed python solutions for internal projects; Developed sql solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Software Engineer. Required skills: Python, SQL, Git, REST APIs, Docker. Preferred: Kubernetes, AWS, Redis. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|SQL|Git|REST APIs|Docker",
+    "resume_skills": "Python|SQL|Communication"
+  },
+  {
+    "id": 92,
+    "role": "Data Analyst",
+    "resume_text": "Data Analyst candidate with experience in Excel, Communication, Git. Implemented excel solutions for internal projects; Implemented communication solutions for internal projects; Built git solutions for internal projects.",
+    "job_description": "We are hiring a Data Analyst. Required skills: Python, SQL, Excel, Power BI, Statistics. Preferred: Tableau, A/B Testing, Pandas. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|SQL|Excel|Power BI|Statistics",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 93,
+    "role": "ML Engineer",
+    "resume_text": "ML Engineer candidate with experience in Python, Machine Learning, Pandas, NumPy, Scikit-learn, Docker, PyTorch. Improved python solutions for internal projects; Developed machine learning solutions for internal projects; Improved pandas solutions for internal projects; Built numpy solutions for internal projects; Implemented scikit-learn solutions for internal projects; Automated docker solutions for internal projects; Designed pytorch solutions for internal projects.",
+    "job_description": "We are hiring a ML Engineer. Required skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn. Preferred: PyTorch, Docker, MLflow. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn",
+    "resume_skills": "Python|Machine Learning|Pandas|NumPy|Scikit-learn|Docker|PyTorch"
+  },
+  {
+    "id": 94,
+    "role": "Backend Developer",
+    "resume_text": "Backend Developer candidate with experience in Python, FastAPI, REST APIs, AWS. Improved python solutions for internal projects; Developed fastapi solutions for internal projects; Developed rest apis solutions for internal projects; Developed aws solutions for internal projects.",
+    "job_description": "We are hiring a Backend Developer. Required skills: Python, FastAPI, REST APIs, PostgreSQL, Git. Preferred: Docker, Redis, AWS. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "Python|FastAPI|REST APIs|PostgreSQL|Git",
+    "resume_skills": "Python|FastAPI|REST APIs|AWS"
+  },
+  {
+    "id": 95,
+    "role": "Frontend Developer",
+    "resume_text": "Frontend Developer candidate with experience in JavaScript, React, Communication. Developed javascript solutions for internal projects; Designed react solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Frontend Developer. Required skills: JavaScript, React, HTML, CSS, Git. Preferred: TypeScript, Next.js, Jest. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "JavaScript|React|HTML|CSS|Git",
+    "resume_skills": "JavaScript|React|Communication"
+  },
+  {
+    "id": 96,
+    "role": "DevOps Engineer",
+    "resume_text": "DevOps Engineer candidate with experience in Excel, Communication, Git. Developed excel solutions for internal projects; Improved communication solutions for internal projects; Implemented git solutions for internal projects.",
+    "job_description": "We are hiring a DevOps Engineer. Required skills: Linux, Docker, Git, CI/CD, AWS. Preferred: Kubernetes, Terraform, Prometheus. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Linux|Docker|Git|CI/CD|AWS",
+    "resume_skills": "Excel|Communication|Git"
+  },
+  {
+    "id": 97,
+    "role": "Cloud Engineer",
+    "resume_text": "Cloud Engineer candidate with experience in AWS, Linux, Docker, Networking, Python, Kubernetes, Terraform. Implemented aws solutions for internal projects; Developed linux solutions for internal projects; Improved docker solutions for internal projects; Built networking solutions for internal projects; Designed python solutions for internal projects; Built kubernetes solutions for internal projects; Designed terraform solutions for internal projects.",
+    "job_description": "We are hiring a Cloud Engineer. Required skills: AWS, Linux, Docker, Networking, Python. Preferred: Terraform, Kubernetes, Azure. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "fit",
+    "required_skills": "AWS|Linux|Docker|Networking|Python",
+    "resume_skills": "AWS|Linux|Docker|Networking|Python|Kubernetes|Terraform"
+  },
+  {
+    "id": 98,
+    "role": "Product Analyst",
+    "resume_text": "Product Analyst candidate with experience in SQL, Excel, Analytics, Python. Developed sql solutions for internal projects; Designed excel solutions for internal projects; Implemented analytics solutions for internal projects; Implemented python solutions for internal projects.",
+    "job_description": "We are hiring a Product Analyst. Required skills: SQL, Excel, Analytics, A/B Testing, Communication. Preferred: Python, Tableau, Product Metrics. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Analytics|A/B Testing|Communication",
+    "resume_skills": "SQL|Excel|Analytics|Python"
+  },
+  {
+    "id": 99,
+    "role": "Business Analyst",
+    "resume_text": "Business Analyst candidate with experience in SQL, Excel, Communication. Developed sql solutions for internal projects; Developed excel solutions for internal projects; Built communication solutions for internal projects.",
+    "job_description": "We are hiring a Business Analyst. Required skills: SQL, Excel, Requirements Gathering, Data Analysis, Communication. Preferred: Power BI, Jira, UML. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "potential",
+    "required_skills": "SQL|Excel|Requirements Gathering|Data Analysis|Communication",
+    "resume_skills": "SQL|Excel|Communication"
+  },
+  {
+    "id": 100,
+    "role": "AI Engineer",
+    "resume_text": "AI Engineer candidate with experience in Excel, Communication, Git. Improved excel solutions for internal projects; Developed communication solutions for internal projects; Designed git solutions for internal projects.",
+    "job_description": "We are hiring a AI Engineer. Required skills: Python, LLM, Prompt Engineering, LangChain, FastAPI. Preferred: RAG, Vector Databases, Docker. Responsibilities include building reliable solutions, collaborating with teams, and improving delivery quality.",
+    "expected_label": "not_fit",
+    "required_skills": "Python|LLM|Prompt Engineering|LangChain|FastAPI",
+    "resume_skills": "Excel|Communication|Git"
+  }
+]
